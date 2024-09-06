@@ -1,0 +1,50 @@
+body{
+    background-color: blue;
+    height: 100vh;
+    
+}
+
+.D1{
+    border: 3px dotted white;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.D2{
+    border: 3PX dotted red;
+}
+.R{
+    background-color: yellow;
+    margin-bottom: 20px;
+    width: 200px;
+    height:80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.R2{    
+    background-color: yellow;
+    width: 90px;
+    height: 210px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.D3{
+    border: 3px dotted white; 
+    width: 300px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Q{
+    background-color:yellow ;
+    height:80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
